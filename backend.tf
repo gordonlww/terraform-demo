@@ -8,7 +8,7 @@ terraform {
     organization = "example-org-819179"
 
     workspaces {
-      name = "terraform-demo-3"
+      name = "terraform-demo-4"
     }
   }
 
