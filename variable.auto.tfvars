@@ -1,2 +1,2 @@
-provider_token = "oom95nfGzpZ8Ow.atlasv1.TG1mjzyHVJT5WpGxSy7qu9W08k8diH3nJcaTqPidZfaGK7Zy9wrz56w9iBjDk4uBiJ0"
+#provider_token = "JN9dQB0cDILVVg.atlasv1.1zvpzfzk1sfvTDSwfoko95eI4P7Ay21dnfEBOnvJIGzpImKV5tAictrsKYLTl9YTSEc"
 server_count = 5
