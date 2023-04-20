@@ -1,3 +1,3 @@
-variable "server_count" {
+variable "server_counts" {
    description = "server count"
 }
